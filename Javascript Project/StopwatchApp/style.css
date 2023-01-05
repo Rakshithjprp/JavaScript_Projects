@@ -1,0 +1,43 @@
+*{
+    margin: 0px auto;
+        padding: 0px;
+}
+.container{
+    background-color:cornflowerblue;
+    height: 500px;
+     
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+    text-transform: capitalize;
+    font-size: 3rem;
+    color: yellow;
+}
+
+p{
+  
+    text-align: center;
+        margin: 30px;
+        font-size: 3rem;
+    
+}
+
+.btns{
+    align-content: center;
+    width: 500px;
+    
+    
+    
+}
+
+button {
+    background: transparent;
+    padding: 20px;
+    margin-right: 10px;
+    width: 150px;
+    text-align: center;
+    cursor: pointer;
+    
+}

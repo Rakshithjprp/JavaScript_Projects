@@ -1,0 +1,58 @@
+*{
+    margin: 0 auto;
+    padding: 0px;
+    background-color: blue;
+}
+
+.container{
+
+}
+
+h1{
+    color: #f0f8ff;
+    text-align: center;
+    margin: 30px;
+}
+
+input{
+    background-color: darkgrey;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+form{
+    text-align: center;
+}
+
+label{
+    color: #f0f8ff;
+    font-weight: bold;
+}
+
+h3 {
+    color: #f0f8ff;
+    text-align: center;
+    margin: 30px;
+}
+
+
+#btn {
+    text-align: center;
+    width: 200px;
+   
+
+}
+
+button{
+    width: 200px;
+    padding: 10px;
+    background-color: #f0f8ff;
+}
+
+#prog{
+    margin: 10px;
+    color: #f0f8ff;
+}
